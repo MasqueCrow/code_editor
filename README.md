@@ -2,7 +2,7 @@
 A browser-based code editor that enables you to write and run code directly in your web browser.
 
 ## Features
-1. Built-in programming langaguaes (Javascript, Python ,Typescript, PHP etc.)
+1. Built-in programming languages (Javascript, Python ,Typescript, PHP etc.)
 2. Boilerplate Code template
 3. Syntax highlighting
 4. Display output and debugging error
@@ -18,5 +18,13 @@ A browser-based code editor that enables you to write and run code directly in y
 3. Run `npm run dev` in project folder to start dev server
 4. Access the localhost in browser
 
-## ScreenShot
+## Screenshots
 
+### Select Coding Langugage
+![img1](./ss/select_prog.png)
+
+### Display Output
+![img1](./ss/output.png)
+
+### Display Debugging Error 
+![img1](./ss/debug.png)
