@@ -1,8 +1,8 @@
-# code_editor
+# Code Editor
 A browser-based code editor that enables you to write and run code directly in your web browser.
 
 ## Features
-1. Built-in selected programming langaguaes (Javascript, Python ,Typescript, PHP etc.)
+1. Built-in programming langaguaes (Javascript, Python ,Typescript, PHP etc.)
 2. Boilerplate Code template
 3. Syntax highlighting
 4. Display output and debugging error
